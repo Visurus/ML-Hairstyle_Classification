@@ -1,5 +1,5 @@
 # Hairstyle Classification
-![Image](https://howng.com/wp-content/uploads/2016/10/traditional-hairstyles-e1477039899416.jpg)
+![Image](https://images.squarespace-cdn.com/content/v1/598954afcd39c3ced7441153/1548705184034-NB71CWFINFFY0NUS619Q/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/Hairtypechart+copy.jpg?format=2500w)
 
 The dataset contains a sample 10000 images mined from Instagram 
 and clustered based on the hairstyle they showcase.  
